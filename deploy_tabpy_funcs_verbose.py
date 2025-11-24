@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-Deploy TabPy functions one-by-one with verbose output and polling.
-
-Usage:
-  (activate your .venv where tabpy_client is installed and TabPy server is running)
-  python deploy_tabpy_funcs_verbose.py
-"""
 import time
 import json
 import requests
